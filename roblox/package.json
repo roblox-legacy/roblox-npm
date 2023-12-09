@@ -1,0 +1,25 @@
+{
+	"name": "roblox",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/roblox-legacy/roblox-npm.git"
+	},
+	"keywords": [
+		"roblox"
+	],
+	"author": "roblox-legacy",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/roblox-legacy/roblox-npm/issues"
+	},
+	"homepage": "https://github.com/roblox-legacy/roblox-npm/blob/main/roblox",
+	"dependencies": {
+		"@tix-factory/http": "^2.0.120",
+		"@tix-factory/queueing": "^2.0.120"
+	}
+}
